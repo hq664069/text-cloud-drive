@@ -3,5 +3,5 @@ compatibility_date = "2025-12-01"
 pages_build_output_dir = "."
 
 kv_namespaces = [
-  { binding = "KV", id = "" }
+  { binding = "KV", id = "a9e2934a66094e5c8884b1986459965c" }
 ]
